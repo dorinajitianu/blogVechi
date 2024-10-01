@@ -19,4 +19,12 @@
             <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
         </publication>
     </deliverable>
+    <deliverable id="d-aa_123-1727788891897" name="aa 123">
+        <context idref="IukfVpqKsJWNBFd"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param name="webhelp.publishing.template" value=".contentfusion/templates/new1"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
