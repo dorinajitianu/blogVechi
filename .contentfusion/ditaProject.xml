@@ -4,8 +4,7 @@
         <input href="../oxygen_xml_blog.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
-  <publication id="pdf" transtype="pdf"/>
-    
+    <publication id="pdf" transtype="pdf"/>
     <deliverable id="WebHelp-1704797197379" name="WebHelp">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
@@ -17,7 +16,7 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
         <publication idref="pdf">
-            
+            <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
         </publication>
     </deliverable>
 </project>
