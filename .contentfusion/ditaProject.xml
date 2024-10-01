@@ -4,6 +4,7 @@
         <input href="../oxygen_xml_blog.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+  <publication id="pdf" transtype="pdf"/>
     
     <deliverable id="WebHelp-1704797197379" name="WebHelp">
         <context idref="IukfVpqKsJWNBFd"/>
