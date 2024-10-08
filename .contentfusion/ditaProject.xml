@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
-    <context id="czYlAjsbvnRJGel" name="bblog">
-        <input href="../oxygen_xml_blog.ditamap"/>
-    </context>
     <context id="IukfVpqKsJWNBFd" name="Blog">
         <input href="../oxygen_xml_blog.ditamap"/>
     </context>
@@ -12,38 +9,12 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
+            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
         </publication>
     </deliverable>
     <deliverable id="PDF-1704797224129" name="PDF">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
-        <publication idref="pdf">
-            <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
-        </publication>
-    </deliverable>
-    <deliverable id="d-aa_123-1727788891897" name="aa 123">
-        <context idref="IukfVpqKsJWNBFd"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value=".contentfusion/templates/new1"/>
-            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
-        </publication>
-    </deliverable>
-    <deliverable id="d-aa-1727945087927" name="aa">
-        <context idref="IukfVpqKsJWNBFd"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf">
-            <param name="pdf.publishing.template" path="templates/new2"/>
-            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
-        </publication>
-    </deliverable>
-    <deliverable id="d-customTemplate-1727946194578" name="customTemplate">
-        <context idref="IukfVpqKsJWNBFd"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp">
-            <param name="webhelp.publishing.template" path="templates/oxyTest"/>
-            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
-        </publication>
+        <publication idref="pdf"/>
     </deliverable>
 </project>
