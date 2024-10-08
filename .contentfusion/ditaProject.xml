@@ -9,7 +9,7 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
+            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
         </publication>
     </deliverable>
     <deliverable id="PDF-1704797224129" name="PDF">
