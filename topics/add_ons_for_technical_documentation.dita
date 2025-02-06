@@ -5,7 +5,33 @@
     <shortdesc>Oxygen XML Author has various free and useful add-ons for technical documentation
         writers, including a language model for editing, batch document converter, Git client,
         content fusion connector, feedback comments manager, terminology checker, DITA translation,
-        and live tutorials. </shortdesc>
+        and live tutorials. ## Language Model for Editing The language model add-on assists writers
+        by providing advanced grammar and style suggestions, ensuring that the documentation is
+        clear, concise, and free of errors. It integrates seamlessly with Oxygen XML Author,
+        offering real-time feedback as you type. ## Batch Document Converter The batch document
+        converter add-on allows users to convert multiple documents from one format to another in a
+        single operation. This is particularly useful for large projects where consistency and
+        efficiency are key. Supported formats include DITA, DocBook, and XHTML. ## Git Client The
+        Git client add-on provides a user-friendly interface for managing version control directly
+        within Oxygen XML Author. It supports all standard Git operations, such as cloning
+        repositories, committing changes, and merging branches, making it easier for writers to
+        collaborate on documentation projects. ## Content Fusion Connector The Content Fusion
+        connector add-on enables seamless collaboration between writers and reviewers. It allows for
+        real-time editing and commenting, ensuring that feedback is incorporated quickly and
+        efficiently. This add-on is essential for teams working on complex documentation projects.
+        ## Feedback Comments Manager The feedback comments manager add-on helps writers keep track
+        of comments and suggestions from reviewers. It provides a centralized location for managing
+        feedback, making it easier to address issues and improve the quality of the documentation.
+        ## Terminology Checker The terminology checker add-on ensures consistency in the use of
+        terms throughout the documentation. It scans the content for predefined terms and suggests
+        corrections where necessary, helping to maintain a professional and uniform style. ## DITA
+        Translation The DITA translation add-on simplifies the process of translating DITA documents
+        into multiple languages. It supports various translation workflows and integrates with
+        popular translation management systems, ensuring that the documentation is accessible to a
+        global audience. ## Live Tutorials The live tutorials add-on offers interactive tutorials
+        and guides directly within Oxygen XML Author. These tutorials cover a wide range of topics,
+        from basic usage to advanced features, helping writers to quickly become proficient with the
+        tool.</shortdesc>
     <prolog>
         <author>Radu Coravu</author>
         <critdates>
