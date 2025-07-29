@@ -16,7 +16,7 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
         <publication idref="pdf">
-            <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
+            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
         </publication>
     </deliverable>
 </project>
